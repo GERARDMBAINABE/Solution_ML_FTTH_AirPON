@@ -1,8 +1,8 @@
 # 📡 FTTH AirPON ML — Système d'Aide à la Décision
 
-> \*\*Conception et Implémentation d'une Solution Basée sur le Machine Learning pour l'Optimisation du Déploiement et de la Maintenance des Réseaux FTTH AirPON\*\*
+> \Conception et Implémentation d'une Solution Basée sur le Machine Learning pour l'Optimisation du Déploiement et de la Maintenance des Réseaux FTTH AirPON\\
 >
-> \*Cas de I-ENGINEERING TCHAD SARL — Sous-traitant de Moov Africa Tchad\*
+> \Cas de I-ENGINEERING TCHAD SARL Sous-traitant de Moov Africa Tchad\
 
 \---
 
@@ -35,7 +35,7 @@ Elle permet à I-Engineering Tchad SARL de :
 
 ## 🚀 Accès à l'Application en Ligne
 
-> ⚡ \*\*Aucune installation requise\*\* — L'application est déployée et accessible directement depuis votre navigateur.
+> ⚡ \*\*Aucune installation requise\*\*  L'application est déployée et accessible directement depuis votre navigateur.
 
 🔗 **URL de l'application :** `https://\[url-a-completer-apres-deploiement].streamlit.app`
 
@@ -86,7 +86,7 @@ L'application est entièrement disponible en **3 langues** :
 |Maintenance (3 000 entrées)|**Random Forest** ⭐|**93,17 %**|**93,18 %**|
 |Maintenance (3 000 entrées)|SVM|77,83 %|77,77 %|
 
-> ✅ \*\*Le Random Forest est le modèle retenu\*\* — supérieur au SVM de +23,75 pts sur le déploiement et +15,34 pts sur la maintenance.
+> ✅ \*\*Le Random Forest est le modèle retenu\*\* supérieur au SVM de +23,75 pts sur le déploiement et +15,34 pts sur la maintenance.
 
 ### Variables cibles
 
@@ -144,7 +144,7 @@ ftth-airpon-ml/
 ## 💻 Installation Locale (pour les développeurs)
 
 > ⚠️ Cette section est destinée aux développeurs souhaitant exécuter l'application en local.
-> Les utilisateurs finaux peuvent utiliser directement \[l'application en ligne](#-accès-à-lapplication-en-ligne).
+> Les utilisateurs finaux peuvent utiliser directement l'application en ligne
 
 ### Prérequis
 
@@ -157,7 +157,7 @@ ftth-airpon-ml/
 **1. Cloner le dépôt**
 
 ```bash
-git clone https://github.com/\[votre-username]/ftth-airpon-ml.git
+git clone https://github.com/\[GERARDMBAIABE]/ftth-airpon-ml.git
 cd ftth-airpon-ml
 ```
 
@@ -211,20 +211,20 @@ L'application est déployée sur **Streamlit Community Cloud** (plateforme gratu
 
 ### Étapes de déploiement
 
-**1.** Pousser le projet sur **GitHub** (dépôt public ou privé)
+**1.** Pousser le projet sur **GitHub** 
 
 **2.** Se connecter sur [share.streamlit.io](https://share.streamlit.io) avec un compte GitHub
 
 **3.** Cliquer sur **"New app"** et renseigner :
 
-* Dépôt GitHub : `\[votre-username]/ftth-airpon-ml`
+* Dépôt GitHub : `\GERARDMBAINABE/ftth-airpon-ml`
 * Branche : `main`
 * Fichier principal : `streamlit\_app.py`
 
 **4.** Cliquer sur **"Deploy"**
 
 > ✅ L'application sera accessible en ligne en quelques minutes via une URL du type :
-> `https://\[votre-username]-ftth-airpon-ml.streamlit.app`
+> `https://\GERARDMBAINABE/ftth-airpon-ml.streamlit.app`
 
 ### Notes importantes pour le déploiement
 
@@ -271,9 +271,9 @@ Les deux datasets utilisés sont des **données synthétiques** générées avec
 
 ## 📞 Contact
 
-|Rôle|Nom|
-|-|-|
-|**Auteur**|GERARD MBAINABE|
+|Rôle|Nom|Contact
+|-|-|-|
+|**Auteur**|GERARD MBAINABE|+23566844904/+237659606157|
 |**Encadreur académique**|\[Pr.Dr.Ing. Habil Kolyang|
 |**Encadreur professionnel**|Massol Harmel Michel|
 |**Institution**|Ecole Nationale Supérieure Polytechnique de l'Université de Maroua(ENSPM), Cameroun|
@@ -284,11 +284,12 @@ Les deux datasets utilisés sont des **données synthétiques** générées avec
 ## 📄 Licence
 
 Ce projet est développé dans le cadre d'un mémoire académique de Master 2 à l'Ecole National Supérieure Polytechnique de l'Université de Maroua(ENSPM).
-Tous droits réservés © 2025-2026 — I-Engineering Tchad SARL / ENSPM Cameroun.
+Tous droits réservés a GERARD MBAINABE, et  Engineering Tchad SARL / ENSPM Cameroun qui sont copropriétaire de l'application.
 
 \---
 
 <div align="center">
-  <sub>📡 FTTH AirPON ML — Version 1.0 | I-Engineering Tchad SARL | ENSPM Cameroun | 2025-2026</sub>
+  <sub>📡 FTTH_AirPON_ML  Version 1.0 | I-Engineering Tchad SARL | ENSPM Cameroun | 2025-2026</sub>
 </div>
 
+  
