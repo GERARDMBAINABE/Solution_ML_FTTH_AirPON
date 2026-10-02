@@ -1,8 +1,8 @@
-# 📡 FTTH AirPON ML — Système d'Aide à la Décision
+# 📡 FTTH_AirPON_ML Système d'Aide à la Décision
 
-> \Conception et Implémentation d'une Solution Basée sur le Machine Learning pour l'Optimisation du Déploiement et de la Maintenance des Réseaux FTTH AirPON\\
+> **\Conception et Implémentation d'une Solution Basée sur le Machine Learning pour l'Optimisation du Déploiement et de la Maintenance des Réseaux FTTH AirPON\\**
 >
-> \Cas de I-ENGINEERING TCHAD SARL Sous-traitant de Moov Africa Tchad\
+> **\Cas de I-ENGINEERING TCHAD SARL Sous-traitant de Moov Africa Tchad\**
 
 \---
 
@@ -10,9 +10,9 @@
 
 |Élément|Détail|
 |-|-|
-|**École**|École Nationale Supérieure Polytechnique (ENSP) — Université de Maroua|
-|**Niveau**|Master 2 — Ingénieur de Conception|
-|**Spécialité**|Data Science / Informatique \& Télécommunications|
+|**École**|École Nationale Supérieure Polytechnique (ENSP) de L'Université de Maroua|
+|**Niveau**|Master 2: Ingénieur de Conception / Informatique \& Télécommunications|
+|**Spécialité**|Data Science |
 |**Entreprise**|I-Engineering Tchad SARL|
 |**Activité**|Sous-traitant de Moov Africa Tchad — N'Djamena, Tchad|
 |**Année académique**|2025 – 2026|
@@ -157,7 +157,7 @@ ftth-airpon-ml/
 **1. Cloner le dépôt**
 
 ```bash
-git clone https://github.com/\[GERARDMBAIABE]/ftth-airpon-ml.git
+git clone https://github.com/GERARDMBAIABE/ftth-airpon-ml.git
 cd ftth-airpon-ml
 ```
 
