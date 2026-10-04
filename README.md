@@ -4,8 +4,6 @@
 >
 > **\Cas de I-ENGINEERING TCHAD SARL Sous-traitant de Moov Africa Tchad\**
 
-\---
-
 ## 🏫 Contexte Académique
 
 |Élément|Détail|
@@ -16,8 +14,6 @@
 |**Entreprise**|I-Engineering Tchad SARL|
 |**Activité**|Sous-traitant de Moov Africa Tchad — N'Djamena, Tchad|
 |**Année académique**|2025 – 2026|
-
-\---
 
 ## 📌 Description du Projet
 
@@ -31,18 +27,14 @@ Elle permet à I-Engineering Tchad SARL de :
 * **Comparer des scénarios** de déploiement ou de maintenance
 * **Gérer l'historique** des prédictions par utilisateur
 
-\---
-
 ## 🚀 Accès à l'Application en Ligne
 
 > ⚡ \*\*Aucune installation requise\*\*  L'application est déployée et accessible directement depuis votre navigateur.
 
-🔗 **URL de l'application :** `https://\[url-a-completer-apres-deploiement].streamlit.app`
+🔗 **URL de l'application :** https://solutionmlftthairpon.streamlit.app/
 
 > 💡 Compatible avec tous les navigateurs modernes (Chrome, Firefox, Edge, Safari).
 > Pas besoin d'installer Python ou quoi que ce soit.
-
-\---
 
 ## 🌍 Langues Disponibles
 
@@ -55,8 +47,6 @@ L'application est entièrement disponible en **3 langues** :
 |العربية|`ar`|Oui ✅|
 
 > La langue se sélectionne directement dans la barre latérale de l'application.
-
-\---
 
 ## 🖥️ Fonctionnalités — Les 10 Pages
 
@@ -72,8 +62,6 @@ L'application est entièrement disponible en **3 langues** :
 |8|📊 **Exploration des Données**|Statistiques et visualisations des datasets|
 |9|📋 **Statistiques Admin**|Tableau de bord administrateur (utilisateurs, prédictions)|
 |10|ℹ️ **À Propos**|Guide d'utilisation et informations sur les modèles|
-
-\---
 
 ## 🤖 Modèles Machine Learning
 
@@ -97,8 +85,6 @@ L'application est entièrement disponible en **3 langues** :
 
 Tous les modèles ont été optimisés par **GridSearchCV** avec une validation croisée à **5 plis**.
 
-\---
-
 ## 🔐 Authentification
 
 L'application dispose d'un système d'authentification sécurisé :
@@ -108,8 +94,6 @@ L'application dispose d'un système d'authentification sécurisé :
 * **Sécurité** : mots de passe hashés en **SHA-256**
 * **Historique** : chaque utilisateur dispose de son propre historique de prédictions
 * **Rôles** : utilisateur standard / administrateur
-
-\---
 
 ## 🗂️ Structure des Fichiers du Projet
 
@@ -137,9 +121,6 @@ ftth-airpon-ml/
 ├── le\_target\_maintenance.pkl                 # Encodeur cible — Maintenance
 │
 └── metrics.pkl                               # Métriques de performance des modèles
-```
-
-\---
 
 ## 💻 Installation Locale (pour les développeurs)
 
